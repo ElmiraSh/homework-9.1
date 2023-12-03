@@ -28,6 +28,13 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+*.log
+gradle
+gradlew
+gradlew.bat
+.idea
+build
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
