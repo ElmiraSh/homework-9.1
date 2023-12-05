@@ -9,7 +9,7 @@ public abstract class TestBase {
         Configuration.browserSize = "1500x1280";
         Configuration.pageLoadStrategy="eager";
         // Configuration.headless=true;
-        Configuration.holdBrowserOpen = true;
+        //Configuration.holdBrowserOpen = true;
 
     }
 }
